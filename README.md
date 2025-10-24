@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Rayanabdi
 - 👀 I’m interested in Computational Cognitive Science
-- 🌱 I’m currently learning Python, AI, SQL, Computational Cognitive Science
+- 🌱 I’m currently learning Python, AI, Computational Cognitive Science
 - 💞️ I’m looking to collaborate on Computational Cognitive Science
-- 📫 How to reach me t.me/shabtabam
+- 📫 How to reach me t.me/rayan_abdi
 - 😄 Pronouns: He/him
 
 <!---
